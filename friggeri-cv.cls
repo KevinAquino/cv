@@ -356,6 +356,10 @@
 {#1}{ (#2). }{#3}{. {\it{#4, #5,}} #6{.}}
 } 
 
+\newcommand{\preprint}[4]{
+{#1}{ (#2). }{#3}{. {\it{#4}}.}
+} 
+
 \newcommand{\submittedpaper}[3]{
 {#1}{ (#2). }{#3}{. {\it{Submitted.}}}
 } 
